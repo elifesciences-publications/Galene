@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Warren et al., "Removing physiological motion from intravital and clinical functional imaging data". eLife, 2018. http://dx.doi.org/10.7554/eLife.35800
+
+
 Galene
 ======
 
